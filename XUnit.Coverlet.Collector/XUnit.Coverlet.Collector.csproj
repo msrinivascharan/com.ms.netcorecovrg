@@ -21,7 +21,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Numbers\Numbers.csproj" />
-    <ProjectReference Include="..\Bank\Bank.csproj" /> 
+    <ProjectReference Include="..\Bank\Bank.csproj" />
+    <ProjectReference Include="..\MedShop\MedShop.csproj" /> 
   </ItemGroup>
 
 </Project>
